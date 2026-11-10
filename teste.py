@@ -1,1 +1,5 @@
 print('Hello, World!')
+nome = input('Qual é o seu nome? ')
+print(f'Olá, {nome}! Bem-vindo ao programa.')
+idade = input('Qual sua idade? ')
+print(f'Você tem {idade} anos.')
